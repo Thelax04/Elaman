@@ -1,0 +1,6 @@
+.Pic
+{
+    position: absolute;
+    background-image: url(back.jpg);
+    background-size: cover;
+}
