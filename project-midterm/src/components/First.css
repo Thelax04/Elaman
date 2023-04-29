@@ -3,31 +3,6 @@
     width: 100%;
     height: 70px;
 }
-
-
-.firstclass
-{
-    position: absolute;
-    left: 1000px;
-    top: 25px;
-    color: white;
-    font-size: 25px;
-    font-family:'Courier New', Courier, monospace;
-    height: 25px;
-}
-#class1
-{
-    position: absolute;
-    left: 40px;
-    color: white;
-}
-#class2
-{
-    position: absolute;
-    left: 40px;
-    color: white;
-    width: 250px;
-}
 .firstclass
 {
     position: absolute;
@@ -41,68 +16,49 @@
 .onepicture
 {
     position: absolute;
-    height: 25px;
     width: 25px;
+    height: 25px;
+    top: 14px;
+    left: 25px;
     background-image: url(./like.png);
     background-size: cover;
 }
 .twopicture
 {
     position: absolute;
-    
+    top: 14px;
+    left: 260px;
     height: 25px;
     width: 25px;
     background-image: url(./profile.png);
     background-size: cover;
 }
-.Buttonone
+.Button1
 {
-    position: absolute;
-    height: 100%;
-    width: 18%;
-}
-.Buttontwo
-{
-    position: absolute;
-    height: 100%;
-    left: 230px;
-    width: 18%;
-}
-
-.modal {
-    display: none; /* модальное окно изначально скрыто */
-    position: fixed; /* позиционирование окна */
-    z-index: 1; /* уровень отображения окна (над другими элементами) */
-    left: 0;
-    top: 0;
-    width: 100%; /* ширина окна на всю страницу */
-    height: 100%; /* высота окна на всю страницу */
-    overflow: auto; /* добавление полос прокрутки, если контент не помещается на экране */
-    background-color: rgba(0,0,0,0.4); /* цвет фона */
-}
-
-.modal-content {
-    background-color: #00f; /* цвет фона контента окна */
-    margin: 15% auto; /* отступы контента от верхнего края экрана */
-    padding: 20px;
-    border: 1px solid #888;
+    border-radius: 25px;
+    border-color: blue;
+    border-width: 3px;
     width: 200px;
-    height: 150px;
-    color: #fff; /* цвет текста */
-    text-align: center;
-    border-radius: 5px; /* скругление углов контента */
+    height: 50px;
+    margin-right: 40px;
+    transition: 0.5s;
 }
-
-.close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
+.Button1:hover
+{
+    transition: 0.5s;
+    background-color: aqua;
 }
-
-.close:hover,
-.close:focus {
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
+.Button2
+{
+    border-radius: 25px;
+    border-color: blue;
+    border-width: 3px;
+    width: 200px;
+    height: 50px;
+    transition: 0.5s;
+}
+.Button2:hover
+{
+    transition: 0.5s;
+    background-color: aqua;
 }

@@ -4,22 +4,20 @@ import './First.css'
 function First() {
     return <div className='class'>
         <Logo />
-        <div className="firstclass">
         <b>
-            <div id='myBtn' className='Buttonone'>
-                <div className="onepicture"></div>
-                <div id="class1">Избранное</div>
+            <div className='firstclass'>
+            <button className='Button1'> 
+            <div className='onepicture'></div>
+                    Избранное
+                </button>
+            
+                <button className='Button2'> 
+                <div className='twopicture'></div>
+                    Ваш профиль
+                </button>
             </div>
-            
-            
-            
-            <div className='Buttontwo'>
-                <div className="twopicture"></div>
-                <div id="class2">Ваш профиль</div>
-            </div>
-            
+                
         </b>
-        </div>
         
 
     </div>
