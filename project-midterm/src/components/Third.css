@@ -1,0 +1,16 @@
+.functhird
+{
+    width: 100%;
+    position: absolute;
+    top: 1050px;
+    height: 250px;
+    text-align: center;
+    font-size: 40px;
+    background-color: blue;
+}
+.endd
+{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 15px;
+}

@@ -1,0 +1,256 @@
+.glav
+{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.oneupper
+{
+    width: 100%;
+    height: 500px;
+}
+.com
+{
+    text-align: center;
+    position: absolute;
+    top: 220px;
+    width: 90%;
+    height: 100%;
+    left: 5%;
+}
+.firstcom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+}
+.piccomone
+{
+    background-image: url(./images/uslugi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.secondcom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 140px;
+    height: 120px;
+}
+.piccomtwo
+{
+    background-image: url(./images/kaska.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.csssecond
+{
+    font-size: 12px;
+}
+.thirdcom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 280px;
+    height: 120px;
+}
+.piccomthree
+{
+    background-image: url(./images/key.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.cssthird
+{
+    font-size: 13px;
+}
+.forthcom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 420px;
+    height: 120px;
+}
+.piccomforth
+{
+    background-image: url(./images/phone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.fivecom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 560px;
+    height: 120px;
+}
+.piccomfive
+{
+    background-image: url(./images/table.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.sixcom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 700px;
+    height: 120px;
+}
+.piccomsix
+{
+    background-image: url(./images/chemodan.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.sevencom
+{
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    left: 840px;
+    height: 120px;
+}
+.piccomseven
+{
+    background-image: url(./images/clothes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.eightcom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    top: 180px;
+}
+.piccomeight
+{
+    background-image: url(./images/coleso.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.ninecom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 140px;
+    top: 180px;
+}
+.piccomnine
+{
+    background-image: url(./images/ball.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.tencom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 280px;
+    top: 180px;
+}
+.piccomten
+{
+    background-image: url(./images/car.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.elevencom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 420px;
+    top: 180px;
+}
+.piccomeleven
+{
+    background-image: url(./images/cat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.twelvecom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 560px;
+    top: 180px;
+}
+.piccomtwelve
+{
+    background-image: url(./images/free.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.tridteencom
+{
+    text-align: center;
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 700px;
+    top: 180px;
+}
+.piccomtridteen
+{
+    background-image: url(./images/horse.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}

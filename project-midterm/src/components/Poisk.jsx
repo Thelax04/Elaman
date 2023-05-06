@@ -2,7 +2,7 @@ import "./Poisk.css"
 
 function Poisk ()
 {
-    return <div>
+    return <div className="upper">
         <div className="first">
             <div className="pic"></div>
             <input className="input" type="text" placeholder="2 564 234 обявлений рядом"/>

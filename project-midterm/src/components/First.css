@@ -20,7 +20,7 @@
     height: 25px;
     top: 14px;
     left: 25px;
-    background-image: url(./like.png);
+    background-image: url(./images/like.png);
     background-size: cover;
 }
 .twopicture
@@ -30,7 +30,7 @@
     left: 260px;
     height: 25px;
     width: 25px;
-    background-image: url(./profile.png);
+    background-image: url(./images/profile.png);
     background-size: cover;
 }
 .Button1
